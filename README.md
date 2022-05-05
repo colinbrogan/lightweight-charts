@@ -1,3 +1,5 @@
+
+
 <!-- markdownlint-disable no-inline-html first-line-h1 -->
 
 <div align="center">
@@ -24,6 +26,10 @@ The Lightweight Charting Library is the best choice for you if you want to displ
 
 It is the best choice for you if you want to replace static image charts with interactive ones.
 The size of the library is close to static images but if you have dozens of image charts on a web page then using this library can make the size of your web page smaller.
+
+# This is a modification by Colin applying the following prior merge request to the most recent version of lightweight-charts:
+
+https://github.com/tradingview/lightweight-charts/pull/1052/files
 
 ## Installing
 
